@@ -54,16 +54,16 @@ This project demonstrates concepts related to Attack Surface Management, OSINT, 
 ## Screenshots
 
 ### Dashboard
-(Add Screenshot)
+(dashboard.png)
 
 ### Risk Analysis
-(Add Screenshot)
+(scan-results.png)
 
 ### AI Recommendations
-(Add Screenshot)
+(ai-analysis.png)
 
 ### Generated Report
-(Add Screenshot)
+(technical-report.png)
 
 ---
 
