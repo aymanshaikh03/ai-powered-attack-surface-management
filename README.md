@@ -68,12 +68,12 @@ This project demonstrates concepts related to Attack Surface Management, OSINT, 
 ### Technical Report
 
 ![Technical Report](screenshots/technical-report.png)
+![Technical Report.doc](screenshots/technical-report.html)
 
 ### Export & Reports
 
 ![Export Reports](screenshots/export-report.png)
 
----
 
 ## Disclaimer
 
